@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+
+## About me
+My journey as programmer started at 2012. Then started to work with plain php, and notepad++ with custom systems like CRM and CMS. 
+After few years thought that I need to change something, so went to a startup company and started to develop custom event organize system with custom html builder, ticketing and invites. After that was invited to join team of one of well known local company in Vilnius. I joined, because I wanted to learn work with wordpress so there I spent about 1.5 years of programing with wordpress. I learned it and thought that I would like to try work without team, so went to marketing company where I also was working with wordpress, but in much faster terms (1 simple custom designed webpage per week). Here also I worked about 1-1.5 years. After that wanted to learn something bigger and more complex, so started to search what to learn and found framework symfony. So find company that works with it and tried my luck there. I was lucky :D Started from symfony v3.4 and now usually working with v4/5/6 of symfony. Working with it was hard start, but now I'm lovin' it! So with symfony I'm more than 4 years now (from 2018). :)  
+
 
 <!--
 **scorpioniz/scorpioniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
