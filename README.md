@@ -9,6 +9,9 @@ My journey as programmer started at 2012.
  - After that wanted to learn something bigger and more complex, so started to search what to learn and found framework symfony. So find company that works with it and tried my luck there. I was lucky :D Started from symfony v3.4 and now usually working with v4/5/6 of symfony. Working with it was hard start, but now I'm lovin' it! So with symfony I'm more than 4 years now (from 2018). :)  
 
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
+
 <!--
 **scorpioniz/scorpioniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
